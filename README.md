@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hey, I’m Harsh 👋<br><br>I’m a Computer Science student who likes coding, building projects, and learning by actually making things and currently spending a lot of time improving my DSA and problem-solving skills.<br><br>💻 Java | JavaScript | React | Node.js<br>🧠 DSA & problem solving<br>🚀 Currently exploring full-stack development<br>🔨 Always working on something new<br><br>Still learning. Still building. Still debugging at 2 AM. :)<br>
 
 
